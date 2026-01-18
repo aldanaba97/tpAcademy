@@ -96,3 +96,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Author
+This project was developed by **Aldana Banuera**. She is a Programming Technician with an interest in Data Analytics. She has basic knowledge of SQL and Power BI and enjoys working with data to find useful information.
+
+She is learning more about data analysis and improving her technical skills every day. She likes data visualization and working with databases.
+
+She is looking for an opportunity to grow as a Data Analyst, learn from a professional team, and gain experience in real projects.
